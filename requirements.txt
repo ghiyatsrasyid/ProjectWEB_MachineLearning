@@ -9,9 +9,4 @@ time
 scikit-learn
 seaborn
 Pillow
-dashboard
-Deployment
-Mod
-tkinter
-scipy
-email
+streamlit_lottie
