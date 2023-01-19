@@ -9,3 +9,9 @@ time
 scikit-learn
 seaborn
 Pillow
+dashboard
+Deployment
+Mod
+tkinter
+scipy
+email
