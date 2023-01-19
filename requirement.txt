@@ -7,3 +7,4 @@ matplotlib
 os
 time
 scikit-learn
+seaborn
