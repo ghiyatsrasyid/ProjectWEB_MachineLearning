@@ -3,7 +3,6 @@ requests
 pandas
 numpy
 matplotlib
-time
 scikit-learn
 seaborn
 Pillow
