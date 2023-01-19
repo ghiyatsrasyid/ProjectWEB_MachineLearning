@@ -8,3 +8,4 @@ os
 time
 scikit-learn
 seaborn
+Pillow
