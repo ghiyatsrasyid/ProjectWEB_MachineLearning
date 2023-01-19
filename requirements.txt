@@ -1,6 +1,5 @@
 streamlit
 requests
-json
 pandas
 numpy
 matplotlib
