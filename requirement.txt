@@ -1,0 +1,8 @@
+streamlit
+requests
+json
+pandas
+numpy
+matplotlib
+os
+time
