@@ -3,7 +3,6 @@ requests
 pandas
 numpy
 matplotlib
-os
 time
 scikit-learn
 seaborn
