@@ -1,5 +1,4 @@
-from Tkinter import *
-import Bitmap
+from Tkinter import bitmap 
 import streamlit as st
 import pandas as pd
 import streamlit as st
