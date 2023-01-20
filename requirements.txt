@@ -4,5 +4,6 @@ numpy
 matplotlib
 scikit-learn
 seaborn
-BitmapImage
 tkinter
+BitmapImage
+
