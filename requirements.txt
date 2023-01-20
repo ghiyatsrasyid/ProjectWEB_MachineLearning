@@ -5,4 +5,4 @@ matplotlib
 scikit-learn
 seaborn
 Tk
-st_lottie
+streamlit_lottie
