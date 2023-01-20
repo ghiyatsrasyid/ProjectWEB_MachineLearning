@@ -5,5 +5,3 @@ numpy
 matplotlib
 scikit-learn
 seaborn
-Pillow
-tkinter
