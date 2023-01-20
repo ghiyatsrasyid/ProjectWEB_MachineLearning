@@ -1,4 +1,4 @@
-from Tk import bitmap 
+from Tk import *
 import streamlit as st
 import pandas as pd
 import streamlit as st
